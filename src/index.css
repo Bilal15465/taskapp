@@ -1,0 +1,7 @@
+body{
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+  overflow-y:visible
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
